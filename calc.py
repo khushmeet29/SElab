@@ -7,7 +7,7 @@ if(operator == '+'):
 if(operator == '-'):
 	print(num1 - num2)
 if(operator == '*'):
-	print(num1 * num2)
+	print(n1 * num2) #Purposefully making an error here, replacing num1 with n1
 if(operator == '/'):
 	if(num2 != 0):
 		print(num1/num2)
