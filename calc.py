@@ -12,5 +12,5 @@ if(operator == '/'):
 	if(num2 != 0):
 		print(num1/num2)
 	else:
-		print("Error: invalid denominator")
+		print("Error: Denominator can't be zero")#Made a change here for branch b1
 		exit()
