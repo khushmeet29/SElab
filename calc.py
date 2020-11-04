@@ -10,7 +10,7 @@ if(operator == '*'):
 	print(num1 * num2) #Corrected the error
 if(operator == '/'):
 	if(num2 != 0):
-		print(n1/num2)#Creating a bug here to create issue from command line
+		print(num1/num2)#Corrected an error
 	else:
 		print("Error: Denominator can't be zero")#Made a change here for branch b1
 		exit()
