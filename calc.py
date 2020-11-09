@@ -13,4 +13,6 @@ if(operator == '/'):
 		print(num1/num2)#Corrected an error
 	else:
 		print("Error: Denominator can't be zero")#Made a change here for branch b1
+		print("Exit")
 		exit()
+		
